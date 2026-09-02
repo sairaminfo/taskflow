@@ -1,0 +1,10 @@
+.git
+.gitignore
+bin/
+*.out
+README.md
+Makefile
+docker-compose.yml
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,12 @@
+# Binaries
+/bin/
+/taskflow
+
+# Test/coverage artifacts
+*.out
+coverage.*
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
